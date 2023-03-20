@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+11
+'ingrese a'
+5
+1
+1
+a
+4
+1
+11
+'ingrese b'
+5
+1
+1
+b
+7
+0
+1
+14
+a^2 - b^2 < 0 
+7
+0
+1
+13
+a^2 - b^2 = 0
+7
+0
+1
+13
+a^2 - b^2 > 0
+13
+6
+1
+9
+resultado
+5
+a + b
+13
+13
+6
+1
+9
+resultado
+9
+a^2 - 2*b
+13
+13
+6
+1
+9
+resultado
+7
+2*a + b
+13
+4
+1
+39
+'el valor de la funcion es: ',resultado
+1
